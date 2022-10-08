@@ -1,4 +1,5 @@
 
+
 # Web3 Coffee DAO – Connect, Match, Network Better
 
 World’s best developer matching DAO facilitated with Lens Protocol.
@@ -12,17 +13,19 @@ Web3 Coffee DAO is a Web3 matching and networking tool for developers worldwide.
 
 Upon joining the Web3 Coffee DAO, your decentralized social media profile will be created automatically and you will receive quality matches perfect for your Web3 career! With the Follow NFT, you will also be able to participate in the governance of the DAO.
 
-Join the community and start networking now!
 
 
 ## How to start networking?
-Step 1: Answer some basic questions to let us know more about you
+Step 1: Answer basic questions to facilitate effective matching.
 
-Step 2: Connect your wallet to the landing page
+Step 2: Connect your wallet to www.web3coffeedao.io.
 
-Step 3: The DAO will send you the profile of your perfect match via Telegram
+Step 3: Your Lens social media profile is automatically minted for you. The bot will follow your profile, granting you a Follow NFT to join the DAO.
 
-Step 4: Start networking!
+Step 4:  The bot will send you your perfect match via Telegram.
+
+Step 5: Join the community and start networking now!
+
 
 ## Authors
 
