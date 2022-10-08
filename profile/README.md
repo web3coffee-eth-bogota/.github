@@ -2,6 +2,7 @@
 # Web3 Coffee DAO – Connect, Match, Network Better
 
 World’s best developer matching DAO facilitated with Lens Protocol.
+
 Connect your wallet now to get your profile, Follow NFT, and DAO membership!
 
 
