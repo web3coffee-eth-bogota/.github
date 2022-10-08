@@ -17,15 +17,35 @@ Upon joining the Web3 Coffee DAO, your decentralized social media profile will b
 
 
 ## How to start networking?
-Step 1: Answer basic questions to facilitate effective matching.
 
-Step 2: Connect your wallet to www.web3coffeedao.io.
+# Web3 Coffee DAO – Connect, Match, Network Better
 
-Step 3: Your Lens social media profile is automatically minted for you. The bot will follow your profile, granting you a Follow NFT to join the DAO.
+World’s best developer matching DAO facilitated with Lens Protocol.
 
-Step 4: Receive your perfect match via Telegram.
+Connect your wallet now to get your profile, Follow NFT, and DAO membership!
 
-Step 5: Join the community and start networking now!
+
+
+## ☕ About Web3 Coffee DAO
+Web3 Coffee DAO is a Web3 matching and networking tool for developers worldwide. The community is built with Lens Protocol, a decentralized social media network operated on Polygon. It is created to eliminate ineffective networking and make the first move for you in the Web3 space.
+
+Upon joining the Web3 Coffee DAO, your decentralized social media profile will be created automatically and you will receive quality matches perfect for your Web3 career! With the Follow NFT, you will also be able to participate in the governance of the DAO.
+
+
+
+## How to start networking?
+Step 1: Answer basic questions and connect your wallet to www.web3coffeedao.io.
+
+Step 2: Your Lens social media profile will automatically be minted for you, and you will get a Follow NFT to join the DAO.
+
+Step 3: Receive your perfect match via Telegram and start networking now!
+
+## Authors
+
+- [0xefrain](https://www.github.com/octokatherine)
+- [JHKaller](https://github.com/JHKaller)
+- [fablerq](https://github.com/fablerq)
+- [SzutungC](https://github.com/SzutungC)
 
 
 ## Authors
