@@ -1,5 +1,6 @@
 
 
+
 # Web3 Coffee DAO – Connect, Match, Network Better
 
 World’s best developer matching DAO facilitated with Lens Protocol.
@@ -22,7 +23,7 @@ Step 2: Connect your wallet to www.web3coffeedao.io.
 
 Step 3: Your Lens social media profile is automatically minted for you. The bot will follow your profile, granting you a Follow NFT to join the DAO.
 
-Step 4:  The bot will send you your perfect match via Telegram.
+Step 4: Receive your perfect match via Telegram.
 
 Step 5: Join the community and start networking now!
 
