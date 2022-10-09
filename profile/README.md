@@ -1,7 +1,7 @@
 
 
 
-# Web3 Coffee DAO – Connect, Match, Network Better
+# Web3 Coffee – Connect, Match, Network Better
 
 World’s best developer matching DAO facilitated with Lens Protocol.
 
