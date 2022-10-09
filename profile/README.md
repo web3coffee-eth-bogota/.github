@@ -48,9 +48,4 @@ Step 3: Receive your perfect match via Telegram and start networking now!
 - [SzutungC](https://github.com/SzutungC)
 
 
-## Authors
 
-- [0xefrain](https://www.github.com/octokatherine)
-- [JHKaller](https://github.com/JHKaller)
-- [fablerq](https://github.com/fablerq)
-- [SzutungC](https://github.com/SzutungC)
