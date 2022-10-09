@@ -34,7 +34,7 @@ Upon joining the Web3 Coffee DAO, your decentralized social media profile will b
 
 
 ## How to start networking?
-Step 1: Answer basic questions and connect your wallet to www.web3coffeedao.io.
+Step 1: Answer basic questions and connect your wallet to www.web3coffee.dev.
 
 Step 2: Your Lens social media profile will automatically be minted for you, and you will get a Follow NFT to join the DAO.
 
